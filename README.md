@@ -12,11 +12,7 @@ Or you can read my **[blog](https://wbmcdonald4.medium.com/)** on Medium
 
 
 ### Stuff I deal with on a daily basis
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Google-BigQuery-brightgreen"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-
-
-### Stuff I'm trying to figure out these days
-<img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 
 <!-- visitor badge-->
