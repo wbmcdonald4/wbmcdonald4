@@ -1,8 +1,6 @@
 # Brendan McDonald
 
-Hey There! My name is Brendan :wave:.
-
-I'm a data/ops professional at [PartnerStack](https://partnerstack.com/), a Toronto startup that powers partner programs for software companies.
+Hey there! My name is Brendan :wave:. I'm a data/ops professional at [PartnerStack](https://partnerstack.com/), a Toronto startup that powers partner programs for software companies.
 
 Most of the recent work that I've done is in private repositories, so there isn't much to see here.
 
