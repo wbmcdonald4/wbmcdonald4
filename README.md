@@ -8,8 +8,7 @@ Most of the recent work that I've done is in private repositories, so there isn'
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/salesforce%20-%2300AEFF.svg?&style=for-the-badge&logo=salesforce&logoColor=blue"/>
 
 
-### Send me some 
-<img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white/>
+### Send me some <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
 
 ## Get in touch
 
