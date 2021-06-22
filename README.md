@@ -10,7 +10,7 @@ Most of the recent work that I've done is in private repositories, so there isn'
 
 ### Send me some 
 
-<img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/> : sadsadas
+<img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
 
 ## Get in touch
 
