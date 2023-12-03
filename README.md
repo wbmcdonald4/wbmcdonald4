@@ -12,6 +12,3 @@ Most of the recent work that I've done is in private repositories, so there isn'
 You can email me at **[wbmcdonald4@gmail.com](mailto:hi@wbmcdonald4@gmail.com)**<br>
 Or message me on **[LinkedIn](https://www.linkedin.com/in/wbmcdonald4/)**<br>
 Or you can read my **[blog](https://wbmcdonald4.medium.com/)** on Medium
-
-<!-- visitor badge-->
-![visitors](https://visitor-badge.glitch.me/badge?page_id==wbmcdonald4.wbmcdonald4)
