@@ -1,6 +1,6 @@
 # Brendan McDonald
 
-Hey there! My name is Brendan :wave:. I'm a data/ops professional at [PartnerStack](https://partnerstack.com/), a Toronto startup that powers partner programs for software companies.
+Hey there! My name is Brendan :wave:. I'm the founder of [CS Toolkit](https://cstoolkit.app/home), where we provide simple customer success solutions within Salesforce.
 
 Most of the recent work that I've done is in private repositories, so there isn't much to see here.
 
