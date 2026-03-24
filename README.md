@@ -1,6 +1,6 @@
 # Brendan McDonald
 
-Hey there! My name is Brendan :wave:. I'm the founder of [CS Toolkit](https://cstoolkit.app/home), where we provide simple customer success solutions within Salesforce.
+Hey there! My name is Brendan :wave:. I'm the founder of [Data Jungle](https://datajungle.io), a technical partner for Salesforce data migrations & reporting. 
 
 Most of the recent work that I've done is in private repositories, so there isn't much to see here.
 
@@ -9,6 +9,5 @@ Most of the recent work that I've done is in private repositories, so there isn'
 
 ## Get in touch
 
-You can email me at **[wbmcdonald4@gmail.com](mailto:hi@wbmcdonald4@gmail.com)**<br>
-Or message me on **[LinkedIn](https://www.linkedin.com/in/wbmcdonald4/)**<br>
+You can reach me on **[LinkedIn](https://www.linkedin.com/in/wbmcdonald4/)**<br>
 Or you subscribe to my **[Youtube Channel](https://www.youtube.com/@wbrendanmcdonald)**
